@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: imgui_2026.UI_Widget_Agent
+Agent-Class: imgui_2026.UI_Widget_Agent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
